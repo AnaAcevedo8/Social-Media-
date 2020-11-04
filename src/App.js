@@ -7,7 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Multimedia 
+          Multimedia 2020
+        </p>
+        <p>
+          SENA
         </p>
         <a
           className="App-link"
